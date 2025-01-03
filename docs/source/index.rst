@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+99ok -  99ok7.meme Trang Chủ Chính Thức Tại Việt Nam 2024
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`99ok <https://99ok.meme/>`_ còn chú trọng đến việc đảm bảo an toàn và bảo mật thông tin cá nhân, cùng với các chương trình khuyến mãi hấp dẫn, tạo điều kiện tốt nhất để người chơi thỏa sức trải nghiệm và giành chiến thắng.  Có thể nói đây là một địa chỉ không thể bỏ qua đối với người yêu thích cá cược.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ:
 
-.. note::
+Website: https://99ok.meme/ 
 
-   This project is under active development.
+SĐT: 08765478675
 
-Contents
---------
+Địa chỉ: 49 P. Thái Thịnh, Thịnh Quang, Đống Đa, Hà Nội, Việt Nam
 
-.. toctree::
+Email: 99okmeme@gmail.com
 
-   usage
-   api
+#99ok #99ok7 #99ok7info_website #nhacai99ok #link99ok
